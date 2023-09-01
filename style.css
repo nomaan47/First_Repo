@@ -3,5 +3,13 @@
   padding: 0px;
 }
 h1 {
+
   color: blue;
+}
+h1:hover{
+    color: red;
+}
+p {
+  background: #808080;
+  color: aqua;
 }
